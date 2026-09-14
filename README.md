@@ -1,54 +1,25 @@
-# Remotion video
+# AI Agents: Danger or Opportunity?
 
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
-
-Welcome to your Remotion project!
+An English technology explainer produced for `newhorizons_21` with Remotion. The project includes one 16:9 YouTube-format MP4 master, calm male narration, a copyright-safe synthesized score, and a YouTube thumbnail. The video intentionally contains no subtitles.
 
 ## Commands
 
-**Install Dependencies**
-
-```console
-npm i
-```
-
-**Start Preview**
-
-```console
+```bash
+npm install
+npm run lint
+npm run voiceover
 npm run dev
+npm run render:master
+npm run render:thumbnail
 ```
 
-**Render video**
+The voiceover generator uses Microsoft Edge TTS `en-GB-RyanNeural` at `-2%` speed. Create `.venv-tts`, install `requirements-tts.txt`, then run `npm run voiceover`. The generator also requires `ffprobe`. Finished files are written to `output/`.
 
-```console
-npx remotion render
-```
+## Structure
 
-**Upgrade Remotion**
-
-```console
-npx remotion upgrade
-```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help on our [Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Note that for some entities a company license is needed. [Read the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
+- `src/content.json` — final English narration and on-screen copy
+- `src/shared/` — reusable scene and branding components
+- `public/assets/` — logo and generated cinematic art
+- `public/voiceover/` — scene-level narration
+- `docs/` — research, storyboard, and publishing copy
+- `output/` — rendered deliverables

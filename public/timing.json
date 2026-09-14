@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hook",
+    "startMs": 0,
+    "durationMs": 24120
+  },
+  {
+    "id": "definition",
+    "startMs": 24120,
+    "durationMs": 29520
+  },
+  {
+    "id": "trust",
+    "startMs": 53640,
+    "durationMs": 27960
+  },
+  {
+    "id": "productivity",
+    "startMs": 81600,
+    "durationMs": 36144
+  },
+  {
+    "id": "amplifier",
+    "startMs": 117744,
+    "durationMs": 27600
+  },
+  {
+    "id": "jobs",
+    "startMs": 145344,
+    "durationMs": 26568
+  },
+  {
+    "id": "playbook",
+    "startMs": 171912,
+    "durationMs": 40992
+  },
+  {
+    "id": "outro",
+    "startMs": 212904,
+    "durationMs": 18096
+  }
+]

@@ -1,16 +1,19 @@
 {
   "name": "video-ai-agents",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "newhorizons_21 video about AI coding agents and developers",
   "repository": {},
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "@remotion/captions": "4.0.524",
     "@remotion/cli": "4.0.524",
+    "@remotion/media": "4.0.524",
+    "@remotion/tailwind-v4": "4.0.524",
+    "@remotion/transitions": "4.0.524",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.524",
-    "@remotion/tailwind-v4": "4.0.524",
     "tailwindcss": "4.0.0"
   },
   "devDependencies": {
@@ -25,7 +28,10 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "voiceover": "node scripts/generate-local-voiceover.mjs",
+    "render:master": "remotion render YouTube-Master-16x9 output/ai-agents-youtube-master.mp4",
+    "render:thumbnail": "remotion still YouTube-Thumbnail output/ai-agents-thumbnail.png"
   },
   "sideEffects": [
     "*.css"

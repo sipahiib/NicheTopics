@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hook",
+    "eyebrow": "THE AI AGENT REALITY",
+    "headline": "Developers are finished?",
+    "accent": "Or are they becoming more powerful?",
+    "voiceover": "Developers are finished. At least, that is what the loudest headlines want you to believe. AI agents can now inspect a codebase, plan a task, write files, run tests, and correct their own mistakes. That sounds less like autocomplete and more like a junior engineer who never sleeps. But the real data tells a far more complicated story."
+  },
+  {
+    "id": "definition",
+    "eyebrow": "FROM ASSISTANT TO AGENT",
+    "headline": "It does more than suggest code",
+    "accent": "Plan. Build. Test. Repeat.",
+    "voiceover": "A coding assistant waits for your next prompt. An agent can take a goal and execute several steps on its own. It searches the repository, edits multiple files, calls tools, runs a test suite, and reports what changed. For clean, well-defined tasks, that can compress hours of mechanical work into minutes. Boilerplate, migrations, test generation, documentation, and small bug fixes are already prime targets."
+  },
+  {
+    "id": "trust",
+    "eyebrow": "ADOPTION IS HIGH",
+    "headline": "Trust is not",
+    "accent": "46% distrust AI accuracy",
+    "voiceover": "Now comes the first reality check. In Stack Overflow's 2025 Developer Survey, forty-six percent of developers said they distrusted the accuracy of AI tools, while only thirty-three percent trusted them. Just three percent reported high trust. Among developers using agents, efficiency gains were common, but eighty-seven percent still expressed concern about accuracy, and eighty-one percent raised security and privacy concerns."
+  },
+  {
+    "id": "productivity",
+    "eyebrow": "THE PRODUCTIVITY PARADOX",
+    "headline": "AI made experts 19% slower",
+    "accent": "In one controlled real-world study",
+    "voiceover": "The second reality check is even more surprising. METR ran a randomized study with experienced open-source developers working inside mature projects they knew well. The developers expected AI to make them faster. Instead, with early 2025 tools, they took nineteen percent longer. Why? They spent time prompting, waiting, reviewing, and repairing output that was almost right. The study was small and the tools are improving quickly, but its lesson matters: benchmark performance is not the same as production-ready engineering."
+  },
+  {
+    "id": "amplifier",
+    "eyebrow": "AI IS AN AMPLIFIER",
+    "headline": "Weak systems get louder",
+    "accent": "Strong systems move faster",
+    "voiceover": "Google's 2025 DORA research describes AI as an amplifier. Give an agent clear architecture, reliable tests, useful documentation, and fast feedback, and it can accelerate the system. Give it unclear requirements and fragile code, and it produces confusion at machine speed. The bottleneck moves away from typing syntax and toward defining the problem, designing the system, and verifying the result."
+  },
+  {
+    "id": "jobs",
+    "eyebrow": "WHAT ABOUT THE JOBS?",
+    "headline": "The role is changing",
+    "accent": "Demand has not disappeared",
+    "voiceover": "That shift does not mean demand for developers disappears. The World Economic Forum's Future of Jobs Report lists software and application developers among the fastest-growing roles through 2030, and among the roles expected to drive major net job growth. The danger is more specific: routine implementation becomes cheaper, while judgment, ownership, security, architecture, and domain knowledge become more valuable."
+  },
+  {
+    "id": "playbook",
+    "eyebrow": "THE DEVELOPER PLAYBOOK",
+    "headline": "Learn to direct the machine",
+    "accent": "Context. Verification. Ownership.",
+    "voiceover": "So what should developers do now? First, learn to give agents context: requirements, constraints, examples, and a definition of done. Second, strengthen verification: tests, code review, observability, and security checks. Third, build domain expertise. An agent can generate a payment workflow, but a skilled engineer understands fraud, regulation, failure modes, and customer impact. The winning developer will not compete with an agent at typing code. The winning developer will decide what should be built, direct the agent, and take responsibility for what ships."
+  },
+  {
+    "id": "outro",
+    "eyebrow": "BAD NEWS OR OPPORTUNITY?",
+    "headline": "Both — depending on how you adapt",
+    "accent": "Follow @newhorizons_21",
+    "voiceover": "AI agents are a threat to repetitive work and an opportunity for engineers who can operate at a higher level. The profession is not ending. Its center of gravity is moving. Are you ready to move with it? Follow newhorizons twenty-one for the next signal from the future."
+  }
+]
