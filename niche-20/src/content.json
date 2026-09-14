@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01-opening",
+    "eyebrow": "THE NEXT FIVE YEARS",
+    "title": "A DAY IN 2031",
+    "narration": "Imagine waking up on an ordinary Tuesday in 2031. The city outside still looks familiar. But invisible systems have been working all night: balancing electricity, screening health signals, planning deliveries, and organizing your day. This is not a prophecy about flying cars. It is a grounded look at where technologies already operating today could take everyday life within five years."
+  },
+  {
+    "id": "02-morning",
+    "eyebrow": "07:00",
+    "title": "YOUR MORNING STARTS WITH DATA",
+    "narration": "Before you reach for your phone, a wearable may have measured sleep, movement, temperature, and heart rhythm. By 2031, software could connect those signals and notice a pattern before you feel ill. A digital assistant might suggest a quieter morning, prepare questions for a doctor, or adjust your schedule. But it should not diagnose you alone. The World Health Organization frames digital health around evidence, privacy, and human oversight. The convenience will be real. So will the question: who can see the most intimate data your body produces?"
+  },
+  {
+    "id": "03-commute",
+    "eyebrow": "08:15",
+    "title": "TRANSPORT BECOMES ELECTRIC",
+    "narration": "Your commute may change more visibly. Under policies announced by 2025, the International Energy Agency projected electric cars to exceed forty percent of global new-car sales in 2030. That does not mean every vehicle will be electric or autonomous. It means charging becomes ordinary, batteries improve, and limited driverless services spread city by city. In many places, the real revolution will be quieter buses, smarter routes, and fewer fuel stops."
+  },
+  {
+    "id": "04-work",
+    "eyebrow": "09:00",
+    "title": "WORK WITH AN AI TEAMMATE",
+    "narration": "At work, artificial intelligence may feel less like a chatbot and more like a digital teammate. An AI agent could search documents, draft a presentation, test software, or schedule next steps. The human job shifts toward judgment: choosing goals, checking evidence, correcting errors, and taking responsibility. The World Economic Forum estimates that labour-market transformation could affect twenty-two percent of today's formal jobs by 2030. Its survey projects one hundred seventy million roles created and ninety-two million displaced. Jobs will not simply vanish. Tasks change, new roles emerge, and learning becomes part of almost every career."
+  },
+  {
+    "id": "05-robots",
+    "eyebrow": "13:30",
+    "title": "ROBOTS LEAVE THE LAB",
+    "narration": "Physical robots will become easier to encounter, but most will not look human. They will move boxes, inspect infrastructure, clean buildings, deliver supplies, and support medical teams. The International Federation of Robotics reported almost two hundred thousand professional service robots sold in 2024, led by transport and logistics. By 2031, specialized machines may matter more than dramatic humanoid demonstrations. Robots will succeed first where environments are controlled and work is repetitive, scarce, or dangerous."
+  },
+  {
+    "id": "06-energy",
+    "eyebrow": "18:00",
+    "title": "THE CITY LEARNS TO BALANCE",
+    "narration": "On the journey home, the city may behave differently. Solar panels, batteries, buildings, and electric vehicles can become one responsive network. Software could charge cars when power is cheap, reduce peak demand, and help buildings waste less energy. This needs no science-fiction skyline—only millions of ordinary upgrades and better forecasting. Progress will vary sharply by country and income. The future arrives as a patchwork: one smart district, electric bus route, and automated clinic at a time."
+  },
+  {
+    "id": "07-choice",
+    "eyebrow": "THE REAL FORECAST",
+    "title": "TECHNOLOGY AMPLIFIES CHOICES",
+    "narration": "By 2031, life may be healthier, cleaner, and more efficient. It may also be more monitored and dependent on systems few people understand. The inventions already exist in early form. The unknown is how we choose to deploy them. Five years from now, you will still work, commute, worry, laugh, and make dinner. But intelligence will be embedded in more objects and services around you. The future will not arrive in one spectacular moment. It will appear quietly, one ordinary Tuesday at a time. Which part are you ready for—and which part worries you most?"
+  }
+]

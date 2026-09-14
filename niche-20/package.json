@@ -1,0 +1,26 @@
+{
+  "name": "video-life-2031",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "lint": "eslint src && tsc",
+    "voiceover": "node scripts/generate-voiceover.mjs",
+    "render": "remotion render LifeIn2031 output/life-in-2031-youtube.mp4",
+    "thumbnail": "remotion still LifeIn2031Thumbnail output/life-in-2031-thumbnail.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.524",
+    "@remotion/media": "4.0.524",
+    "@remotion/transitions": "4.0.524",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.524"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.524",
+    "@types/react": "19.2.7",
+    "eslint": "9.19.0",
+    "typescript": "5.9.3"
+  }
+}

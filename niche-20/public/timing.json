@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01-opening",
+    "startMs": 0,
+    "durationMs": 27114
+  },
+  {
+    "id": "02-morning",
+    "startMs": 27114,
+    "durationMs": 37026
+  },
+  {
+    "id": "03-commute",
+    "startMs": 64140,
+    "durationMs": 31770
+  },
+  {
+    "id": "04-work",
+    "startMs": 95910,
+    "durationMs": 45090
+  },
+  {
+    "id": "05-robots",
+    "startMs": 141000,
+    "durationMs": 36906
+  },
+  {
+    "id": "06-energy",
+    "startMs": 177906,
+    "durationMs": 35370
+  },
+  {
+    "id": "07-choice",
+    "startMs": 213276,
+    "durationMs": 41082
+  }
+]
