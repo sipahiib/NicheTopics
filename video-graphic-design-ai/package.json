@@ -1,0 +1,29 @@
+{
+  "name": "video-graphic-design-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio --no-open",
+    "lint": "eslint src && tsc --noEmit",
+    "voiceover": "node scripts/generate-voiceover.mjs",
+    "render": "remotion render Graphic-Design-AI output/graphic-design-ai-master.mp4",
+    "render:poster": "remotion still Graphic-Design-AI-Poster output/graphic-design-ai-poster.png"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.524",
+    "@remotion/cli": "4.0.524",
+    "@remotion/media": "4.0.524",
+    "@remotion/transitions": "4.0.524",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.524"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.524",
+    "@types/react": "19.2.7",
+    "eslint": "9.19.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "sideEffects": ["*.css"]
+}

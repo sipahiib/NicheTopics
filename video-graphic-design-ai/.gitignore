@@ -1,0 +1,8 @@
+node_modules/
+.venv-tts/
+public/voiceover/
+public/timing.json
+public/duration.json
+public/score.mp3
+output/
+dist/

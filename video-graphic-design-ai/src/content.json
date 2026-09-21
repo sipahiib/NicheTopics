@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hook",
+    "label": "THE $5 LOGO PROBLEM",
+    "headline": "Are graphic designers finished?",
+    "subhead": "AI can make 40 concepts before your coffee gets cold.",
+    "visual": "hook",
+    "voiceover": "A client types one sentence and gets forty logo concepts for less than lunch. No agency, no designer on the invoice. So, are graphic designers finished? The uncomfortable answer is: some design work is disappearing. But design itself is not. We must separate making an image from solving a design problem."
+  },
+  {
+    "id": "speed",
+    "label": "WHAT AI ALREADY DOES",
+    "headline": "Seconds, not days",
+    "subhead": "Concepts · cut-outs · resizing · variations",
+    "visual": "speed",
+    "voiceover": "AI is brutally good at speed. It can generate mood boards, remove backgrounds, resize campaigns, create product scenes, and produce endless variations. A small business can turn a rough idea into a polished advert without professional software. Tasks that filled a designer's afternoon can happen before the first meeting. For disposable content, that changes the economics."
+  },
+  {
+    "id": "risk",
+    "label": "THE REAL RISK",
+    "headline": "The bottom rung is shrinking",
+    "subhead": "Fewer small jobs. Higher expectations.",
+    "visual": "risk",
+    "voiceover": "The biggest risk is not that every designer vanishes overnight. It is that the bottom rung gets smaller. Social posts, basic edits, and first drafts need fewer paid hours. One designer with AI may handle work that supported a small team. Clients expect more options, faster delivery, and lower prices. Beginners may lose routine jobs where they learned the craft."
+  },
+  {
+    "id": "data",
+    "label": "THE DATA",
+    "headline": "Decline ≠ extinction",
+    "subhead": "Most exposed jobs are expected to transform.",
+    "visual": "data",
+    "voiceover": "The World Economic Forum lists graphic designers just outside its ten fastest-declining roles through twenty thirty. That reverses its previous report. But it is a warning, not a countdown clock. The International Labour Organization adds context: one in four workers has some exposure to generative AI, yet transformation is more likely than replacement because human input is still needed. Exposure means tasks can change. It does not prove a profession will disappear."
+  },
+  {
+    "id": "human",
+    "label": "WHAT AI STILL MISSES",
+    "headline": "Taste is not a prompt",
+    "subhead": "Context · judgment · consistency · responsibility",
+    "visual": "human",
+    "voiceover": "AI can make an attractive image. It still struggles to understand why a bank should look trustworthy, while a youth brand should feel rebellious. It cannot read tension in a meeting, uncover what customers fear, or know when the brief is wrong. It does not defend a difficult choice, build a coherent identity across years, or take responsibility when a campaign fails. Generation is cheap. Context, judgment, and accountability are valuable."
+  },
+  {
+    "id": "future",
+    "label": "THE NEW DESIGNER",
+    "headline": "From maker to director",
+    "subhead": "Brief → generate → curate → refine → own",
+    "visual": "future",
+    "voiceover": "The winning designer will act less like a pair of hands and more like a creative director. They will write sharper briefs, build systems, direct AI, curate results, fix typography, and protect the brand. Their portfolio must show thinking, not just attractive images: research, decisions, and outcomes. The tool can produce a thousand answers. The designer decides which is right, why, and whether it is safe to publish."
+  },
+  {
+    "id": "outro",
+    "label": "THE VERDICT",
+    "headline": "Graphic design isn't ending.",
+    "subhead": "Average execution is getting automated.",
+    "visual": "outro",
+    "voiceover": "So, is AI killing graphic design? Not exactly. It is automating average execution and raising the value of taste, strategy, and trust. Designers should make three moves. Learn one generation tool deeply. Strengthen typography, hierarchy, systems, and storytelling. Then specialise where context matters more than pixels. Designers who ignore AI will feel pressure. Designers who only know AI will look interchangeable. The future belongs to people who combine machine speed with human judgment. Would you hire the designer, the AI, or both? Follow new horizons twenty-one for the next signal from the future."
+  }
+]
