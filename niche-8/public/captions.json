@@ -1,0 +1,338 @@
+[
+  {
+    "text": "Artificial intelligence can sound certain even when it has completely missed the point.",
+    "startMs": 100,
+    "endMs": 5304,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In one week, a search summary offered a pizza tip involving glue and stumbled over a question about eating rocks.",
+    "startMs": 5254,
+    "endMs": 12447,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In another case, a chatbot invented legal precedents that ended up in a real court filing.",
+    "startMs": 12447,
+    "endMs": 18251,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "These are three documented AI mistakes.",
+    "startMs": 18251,
+    "endMs": 21567,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The first two are absurd.",
+    "startMs": 21567,
+    "endMs": 24067,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The third shows why the punchline matters.",
+    "startMs": 24067,
+    "endMs": 27231,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "First: pizza.",
+    "startMs": 27840,
+    "endMs": 30123,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "A user wanted cheese that would stay on the crust.",
+    "startMs": 30073,
+    "endMs": 33529,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "A sarcastic comment on a discussion forum suggested adding glue.",
+    "startMs": 33529,
+    "endMs": 37904,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Google's AI Overview pulled that idea into a search answer.",
+    "startMs": 37904,
+    "endMs": 42203,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Google later acknowledged that sarcastic or troll content from forums had led to unhelpful advice, including glue for pizza cheese.",
+    "startMs": 42203,
+    "endMs": 50506,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The error is funny because the suggestion is so obviously bad.",
+    "startMs": 50506,
+    "endMs": 54792,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The mechanism is less funny: the system treated a piece of internet sarcasm as useful evidence.",
+    "startMs": 54792,
+    "endMs": 60863,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Then came the rocks.",
+    "startMs": 61484,
+    "endMs": 63626,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Someone asked Google how many rocks they should eat.",
+    "startMs": 63576,
+    "endMs": 67122,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The answer drew on satirical material because there were few serious pages answering such a strange question.",
+    "startMs": 67122,
+    "endMs": 73806,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Google's own explanation called this an information gap.",
+    "startMs": 73806,
+    "endMs": 77696,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The model found a source, but it failed to understand the source's intent.",
+    "startMs": 77696,
+    "endMs": 82390,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "To be clear, rocks are not food.",
+    "startMs": 82390,
+    "endMs": 85451,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "This was a failure to recognize satire, not a hidden nutrition discovery.",
+    "startMs": 85451,
+    "endMs": 90477,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Notice the pattern.",
+    "startMs": 91096,
+    "endMs": 93175,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The search system did not necessarily invent these ideas from nowhere.",
+    "startMs": 93125,
+    "endMs": 97729,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "It found words on the web and promoted them into answers without enough context.",
+    "startMs": 97729,
+    "endMs": 102767,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "A citation can tell you where a claim came from.",
+    "startMs": 102767,
+    "endMs": 106301,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "It does not prove the claim is sensible, serious, or safe.",
+    "startMs": 106301,
+    "endMs": 110918,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Now let's move from the ridiculous to the consequential.",
+    "startMs": 110918,
+    "endMs": 114591,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In the Mata versus Avianca case, lawyers used ChatGPT while preparing a court filing.",
+    "startMs": 115212,
+    "endMs": 121410,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The chatbot produced judicial decisions that looked real, complete with case names and quotations.",
+    "startMs": 121360,
+    "endMs": 127508,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "But those decisions did not exist.",
+    "startMs": 127508,
+    "endMs": 130366,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "After the opposing side and the court questioned the citations, one lawyer asked ChatGPT whether a case was real.",
+    "startMs": 130366,
+    "endMs": 138006,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The chatbot again said yes.",
+    "startMs": 138006,
+    "endMs": 140557,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In June 2023, the judge sanctioned the lawyers and their firm, imposing a five thousand dollar penalty.",
+    "startMs": 140557,
+    "endMs": 147713,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The court's concern was not merely that a tool made an error.",
+    "startMs": 147713,
+    "endMs": 151514,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "It was that people submitted and then defended unverified material in a real legal proceeding.",
+    "startMs": 151514,
+    "endMs": 157394,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "These examples are different, but they share a trap.",
+    "startMs": 158024,
+    "endMs": 161812,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "A polished answer feels checked.",
+    "startMs": 161762,
+    "endMs": 164440,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In the pizza and rock examples, the missing piece was context: joke, satire, or a thin source pool.",
+    "startMs": 164440,
+    "endMs": 171940,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "In the courtroom, the missing piece was independent verification: were those cases actually in a legal database?",
+    "startMs": 171940,
+    "endMs": 178803,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "AI is useful for drafting and exploring ideas.",
+    "startMs": 178803,
+    "endMs": 182693,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Its confidence, though, is not evidence.",
+    "startMs": 182693,
+    "endMs": 186162,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Here's a simple habit.",
+    "startMs": 186772,
+    "endMs": 188978,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Pause when an answer sounds surprising.",
+    "startMs": 188928,
+    "endMs": 191900,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Open the underlying source and check whether it actually says what the summary claims.",
+    "startMs": 191900,
+    "endMs": 197015,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "For anything that could affect money, health, or legal decisions, verify with an authoritative source outside the chatbot.",
+    "startMs": 197015,
+    "endMs": 204553,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "And if the source is a joke, the answer should not treat it as advice.",
+    "startMs": 204553,
+    "endMs": 208915,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The pizza and the rocks make a memorable story.",
+    "startMs": 209520,
+    "endMs": 212925,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "The courtroom tells us what is at stake.",
+    "startMs": 212875,
+    "endMs": 215758,
+    "timestampMs": null,
+    "confidence": null
+  },
+  {
+    "text": "Which AI mistake surprised you most?",
+    "startMs": 215758,
+    "endMs": 218755,
+    "timestampMs": null,
+    "confidence": null
+  }
+]

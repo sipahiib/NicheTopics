@@ -1,0 +1,66 @@
+[
+  {
+    "id": "01-hook",
+    "kind": "hook",
+    "eyebrow": "THREE REAL AI MISTAKES",
+    "title": "CONFIDENTLY WRONG",
+    "subtitle": "The pizza. The rocks. The courtroom.",
+    "narration": "Artificial intelligence can sound certain even when it has completely missed the point. In one week, a search summary offered a pizza tip involving glue and stumbled over a question about eating rocks. In another case, a chatbot invented legal precedents that ended up in a real court filing. These are three documented AI mistakes. The first two are absurd. The third shows why the punchline matters."
+  },
+  {
+    "id": "02-pizza",
+    "kind": "pizza",
+    "eyebrow": "01 / THE PIZZA",
+    "title": "GLUE ON PIZZA?",
+    "subtitle": "A joke became a search tip.",
+    "narration": "First: pizza. A user wanted cheese that would stay on the crust. A sarcastic comment on a discussion forum suggested adding glue. Google's AI Overview pulled that idea into a search answer. Google later acknowledged that sarcastic or troll content from forums had led to unhelpful advice, including glue for pizza cheese. The error is funny because the suggestion is so obviously bad. The mechanism is less funny: the system treated a piece of internet sarcasm as useful evidence."
+  },
+  {
+    "id": "03-rocks",
+    "kind": "rocks",
+    "eyebrow": "02 / THE ROCKS",
+    "title": "EAT ROCKS?",
+    "subtitle": "Satire slipped into the answer.",
+    "narration": "Then came the rocks. Someone asked Google how many rocks they should eat. The answer drew on satirical material because there were few serious pages answering such a strange question. Google's own explanation called this an information gap. The model found a source, but it failed to understand the source's intent. To be clear, rocks are not food. This was a failure to recognize satire, not a hidden nutrition discovery."
+  },
+  {
+    "id": "04-pattern",
+    "kind": "pattern",
+    "eyebrow": "THE PATTERN",
+    "title": "SOURCE ≠ TRUTH",
+    "subtitle": "A link can still lead to a bad answer.",
+    "narration": "Notice the pattern. The search system did not necessarily invent these ideas from nowhere. It found words on the web and promoted them into answers without enough context. A citation can tell you where a claim came from. It does not prove the claim is sensible, serious, or safe. Now let's move from the ridiculous to the consequential."
+  },
+  {
+    "id": "05-court",
+    "kind": "court",
+    "eyebrow": "03 / THE COURTROOM",
+    "title": "CASES THAT NEVER EXISTED",
+    "subtitle": "A real filing cited fictional rulings.",
+    "narration": "In the Mata versus Avianca case, lawyers used ChatGPT while preparing a court filing. The chatbot produced judicial decisions that looked real, complete with case names and quotations. But those decisions did not exist. After the opposing side and the court questioned the citations, one lawyer asked ChatGPT whether a case was real. The chatbot again said yes. In June 2023, the judge sanctioned the lawyers and their firm, imposing a five thousand dollar penalty. The court's concern was not merely that a tool made an error. It was that people submitted and then defended unverified material in a real legal proceeding."
+  },
+  {
+    "id": "06-why",
+    "kind": "why",
+    "eyebrow": "WHY IT HAPPENS",
+    "title": "FLUENCY ISN'T FACT-CHECKING",
+    "subtitle": "Plausible language can hide weak evidence.",
+    "narration": "These examples are different, but they share a trap. A polished answer feels checked. In the pizza and rock examples, the missing piece was context: joke, satire, or a thin source pool. In the courtroom, the missing piece was independent verification: were those cases actually in a legal database? AI is useful for drafting and exploring ideas. Its confidence, though, is not evidence."
+  },
+  {
+    "id": "07-check",
+    "kind": "check",
+    "eyebrow": "A QUICK CHECK",
+    "title": "PAUSE. OPEN. VERIFY.",
+    "subtitle": "Three steps before you trust the answer.",
+    "narration": "Here's a simple habit. Pause when an answer sounds surprising. Open the underlying source and check whether it actually says what the summary claims. For anything that could affect money, health, or legal decisions, verify with an authoritative source outside the chatbot. And if the source is a joke, the answer should not treat it as advice."
+  },
+  {
+    "id": "08-end",
+    "kind": "end",
+    "eyebrow": "THE TAKEAWAY",
+    "title": "CHECK BEFORE YOU SHARE",
+    "subtitle": "Especially when AI sounds certain.",
+    "narration": "The pizza and the rocks make a memorable story. The courtroom tells us what is at stake. Which AI mistake surprised you most?"
+  }
+]
