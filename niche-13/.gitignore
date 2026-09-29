@@ -1,0 +1,7 @@
+node_modules/
+.venv-tts/
+public/audio/
+output/
+*.mp3
+*.mp4
+

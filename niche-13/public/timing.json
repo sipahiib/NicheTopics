@@ -1,0 +1,44 @@
+[
+  {
+    "id": "intro",
+    "startMs": 0,
+    "durationMs": 15000,
+    "audioDurationMs": 13128
+  },
+  {
+    "id": "chatgpt",
+    "startMs": 15000,
+    "durationMs": 30000,
+    "audioDurationMs": 25536
+  },
+  {
+    "id": "notebooklm",
+    "startMs": 45000,
+    "durationMs": 30000,
+    "audioDurationMs": 26088
+  },
+  {
+    "id": "elicit",
+    "startMs": 75000,
+    "durationMs": 30000,
+    "audioDurationMs": 25248
+  },
+  {
+    "id": "deepl",
+    "startMs": 105000,
+    "durationMs": 30000,
+    "audioDurationMs": 25584
+  },
+  {
+    "id": "canva",
+    "startMs": 135000,
+    "durationMs": 30000,
+    "audioDurationMs": 27912
+  },
+  {
+    "id": "outro",
+    "startMs": 165000,
+    "durationMs": 15000,
+    "audioDurationMs": 11232
+  }
+]

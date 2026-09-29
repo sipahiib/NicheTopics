@@ -1,0 +1,58 @@
+[
+  {
+    "id": "intro",
+    "seconds": 15,
+    "tool": "Five AI tools",
+    "job": "A better study workflow",
+    "accent": "#B9F760",
+    "narration": "Five AI tools for five student problems. Follow one assignment about sleep and learning, from a confusing concept to a clear presentation. Here is a practical workflow you can adapt."
+  },
+  {
+    "id": "chatgpt",
+    "seconds": 30,
+    "tool": "ChatGPT Study mode",
+    "job": "Understand",
+    "accent": "#9DF4CC",
+    "narration": "First, understanding. Open ChatGPT Study mode and explain what you already know about memory and sleep. Ask for one hint at a time. Try to explain the idea back in your own words. Then ask for a new practice question. If you get stuck, ask for a simpler example. Compare the explanation with your course materials before using it."
+  },
+  {
+    "id": "notebooklm",
+    "seconds": 30,
+    "tool": "NotebookLM",
+    "job": "Review your notes",
+    "accent": "#B7CAFF",
+    "narration": "Next, turn your own material into a revision plan. Add lecture notes and an approved reading to NotebookLM. Ask for three key ideas and a practice question for each. Its answers can point back to your sources. You can also try an Audio Overview. Remember that the audio only reflects the uploaded material. Check important points against the original pages."
+  },
+  {
+    "id": "elicit",
+    "seconds": 30,
+    "tool": "Elicit",
+    "job": "Find research",
+    "accent": "#FBCB80",
+    "narration": "Now you need evidence. Search Elicit with a question like, what does research say about sleep and learning? Scan paper titles and abstracts to find promising leads. Then open the actual paper. Check its methods and findings before you cite it. A polished summary alone is not evidence. If you cannot access the full text, avoid claiming you read it."
+  },
+  {
+    "id": "deepl",
+    "seconds": 30,
+    "tool": "DeepL Write",
+    "job": "Improve your draft",
+    "accent": "#8DD9FF",
+    "narration": "Once your argument is drafted, use DeepL Write for clarity. Paste a short paragraph you wrote yourself. Compare the suggestions with your original. Does the new wording say exactly what you mean? Has it made a careful claim sound too certain? Accept only the edits that improve the sentence. Your reasoning, evidence, and final voice should still be yours."
+  },
+  {
+    "id": "canva",
+    "seconds": 30,
+    "tool": "Canva Magic Design",
+    "job": "Build the presentation",
+    "accent": "#F7A8DC",
+    "narration": "Finally, present the work. Give Canva Magic Design a short outline: your question, two findings, and one limitation. It can suggest a starting slide layout. Choose a design that helps people follow your argument. Replace generic text with your checked facts and sources. Keep each slide focused on one idea. Some features depend on your plan or school, so check access first."
+  },
+  {
+    "id": "outro",
+    "seconds": 15,
+    "tool": "Your workflow",
+    "job": "Learn. Check. Create.",
+    "accent": "#B9F760",
+    "narration": "Understand, review, research, write, and present. Check your sources and follow your school's AI rules. Which step helps you most?"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "student-ai-tools-video",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "voiceover": "node scripts/generate-voiceover.mjs",
+    "dev": "remotion studio --no-open",
+    "lint": "eslint src && tsc --noEmit",
+    "render": "remotion render StudentAiTools output/student-ai-tools-master.mp4",
+    "thumbnail": "remotion still StudentAiToolsThumbnail output/student-ai-tools-thumbnail.png"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.524",
+    "@remotion/media": "4.0.524",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.524"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.524",
+    "@types/react": "19.2.7",
+    "eslint": "9.19.0",
+    "typescript": "5.9.3"
+  }
+}
