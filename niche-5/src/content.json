@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hook",
+    "seconds": 24,
+    "title": "AI does not pay you.",
+    "subtitle": "A useful result does.",
+    "items": [
+      "3 services",
+      "Real deliverables",
+      "No income guarantees"
+    ],
+    "narration": "You have seen the promise: open an AI tool, click a few buttons, and money appears. But a tool is not a business. A customer pays because you solve a problem. Here are three practical services you could test, and the part most tutorials leave out: finding someone willing to pay."
+  },
+  {
+    "id": "demand",
+    "seconds": 25,
+    "title": "Start with a problem.",
+    "subtitle": "Find work people already buy.",
+    "items": [
+      "Content editing",
+      "Product copy",
+      "Small automations"
+    ],
+    "narration": "There is a real market for creative and technical work. Upwork's twenty twenty six report lists video editing, graphic design, and scripting and automation among in demand skills. That is evidence from one marketplace, not proof that beginners will earn. Start with a task you can already judge, then use AI to improve your delivery."
+  },
+  {
+    "id": "content",
+    "seconds": 38,
+    "title": "01 / Content repurposing",
+    "subtitle": "One recording \u2192 a useful package",
+    "items": [
+      "Client-owned recording",
+      "3 edited clips + captions",
+      "Human review before delivery"
+    ],
+    "narration": "First: repurpose content for a business or creator. Imagine a consultant with a useful interview but no time to edit it. Offer three short clips and a small set of social captions from that recording. AI can suggest highlights and draft text. You still choose the strongest moments, correct names, check context, and make the edits feel intentional. Show a before and after sample using your own recording, or material you have permission to use. Sell the finished package, with a clear revision limit, rather than promising viral views."
+  },
+  {
+    "id": "copy",
+    "seconds": 36,
+    "title": "02 / Product content",
+    "subtitle": "Verified facts \u2192 clearer listings",
+    "items": [
+      "Client fact sheet",
+      "5 product descriptions",
+      "Check every claim"
+    ],
+    "narration": "Second: improve product content for a small online shop. Start with five confusing listings. Ask the owner for verified specifications and brand examples. Use AI to draft clearer copy, then check every measurement and promise against that source. Deliver consistent descriptions and explain what changed. Do not invent customer reviews or medical claims. The value is accurate, readable content that saves time. If you cannot verify a detail, ask the client."
+  },
+  {
+    "id": "automation",
+    "seconds": 38,
+    "title": "03 / Simple automation",
+    "subtitle": "Form \u2192 spreadsheet \u2192 draft reply",
+    "items": [
+      "Use dummy data first",
+      "Approve replies manually",
+      "Define support and ownership"
+    ],
+    "narration": "Third: automate a small administrative task. Move a website enquiry into a spreadsheet and prepare a reply for the owner to approve. Begin with dummy data. Test missing fields, duplicates, and failed connections. AI can help plan the workflow, but reliable delivery needs testing. Keep sensitive data out of tools unless the client approves their use. Agree who owns the accounts, pays ongoing charges, and provides support. A maintainable workflow is the product, not an impressive demo."
+  },
+  {
+    "id": "math",
+    "seconds": 30,
+    "title": "Revenue \u2260 take-home pay",
+    "subtitle": "Illustrative project budget",
+    "items": [
+      "$100 client payment",
+      "\u2212 $15 project costs",
+      "= $85 before fees & tax"
+    ],
+    "narration": "Now the money question. This is an illustration, not a market rate or an earnings promise. A client pays one hundred dollars, and project costs are fifteen. That leaves eighty five before platform fees and tax. Five hours of delivery means seventeen dollars per hour before those deductions. Count sales and revision time too. Test one small paid pilot first."
+  },
+  {
+    "id": "customer",
+    "seconds": 31,
+    "title": "Your first paid pilot",
+    "subtitle": "Specific sample. Specific offer.",
+    "items": [
+      "Pick one customer type",
+      "Show one relevant example",
+      "Agree scope before work"
+    ],
+    "narration": "For your first client, choose one customer type and one problem. Make a sample, then contact a few suitable businesses personally. Explain what you noticed and offer a small paid pilot. Agree deliverables, deadlines, payment terms, and revisions before starting. If nobody responds, change the offer or audience before buying more tools. Useful customer feedback beats another subscription."
+  },
+  {
+    "id": "close",
+    "seconds": 18,
+    "title": "One skill. One offer.",
+    "subtitle": "One paying customer.",
+    "items": [
+      "Build a sample",
+      "Test a paid pilot",
+      "Track time and costs"
+    ],
+    "narration": "Your judgment earns trust. Choose one service and test a paid pilot. Track time and costs. Would you try content editing, product copy, or automation? Tell us below, and follow New Horizons."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hook",
+    "startMs": 0,
+    "durationMs": 24000,
+    "audioDurationMs": 19008
+  },
+  {
+    "id": "demand",
+    "startMs": 24000,
+    "durationMs": 25000,
+    "audioDurationMs": 22248
+  },
+  {
+    "id": "content",
+    "startMs": 49000,
+    "durationMs": 38000,
+    "audioDurationMs": 36072
+  },
+  {
+    "id": "copy",
+    "startMs": 87000,
+    "durationMs": 36000,
+    "audioDurationMs": 33792
+  },
+  {
+    "id": "automation",
+    "startMs": 123000,
+    "durationMs": 38000,
+    "audioDurationMs": 36048
+  },
+  {
+    "id": "math",
+    "startMs": 161000,
+    "durationMs": 30000,
+    "audioDurationMs": 26952
+  },
+  {
+    "id": "customer",
+    "startMs": 191000,
+    "durationMs": 31000,
+    "audioDurationMs": 28272
+  },
+  {
+    "id": "close",
+    "startMs": 222000,
+    "durationMs": 18000,
+    "audioDurationMs": 16440
+  }
+]
