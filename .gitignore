@@ -11,3 +11,10 @@ out
 *.mp3
 *.mp4
 output/
+
+# Local video render caches and Python build artifacts
+/build/
+.cache/
+.remotion/
+__pycache__/
+*.pyc

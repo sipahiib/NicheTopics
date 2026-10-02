@@ -1,0 +1,114 @@
+[
+  {
+    "id": "opening",
+    "text": "One year from now, how much of this video will be outdated? The names? The screens? Or the way we think?",
+    "start": 0,
+    "frames": 313,
+    "audioFrames": 295
+  },
+  {
+    "id": "timestamp",
+    "text": "This is October second, twenty twenty six. Save this video. In a year, we can see what really changed.",
+    "start": 313,
+    "frames": 290,
+    "audioFrames": 272
+  },
+  {
+    "id": "churn",
+    "text": "Every release becomes a headline. But a new name, a new capability, and a useful improvement are three different things.",
+    "start": 603,
+    "frames": 277,
+    "audioFrames": 259
+  },
+  {
+    "id": "sonnet",
+    "text": "On September twenty ninth, twenty twenty five, Anthropic introduced Claude Sonnet four point five. Our starting point, just over a year ago.",
+    "start": 880,
+    "frames": 325,
+    "audioFrames": 307
+  },
+  {
+    "id": "fable",
+    "text": "By September first, twenty twenty six, it had introduced Fable five point one. Yesterday's recommendations can already need a second look.",
+    "start": 1205,
+    "frames": 314,
+    "audioFrames": 296
+  },
+  {
+    "id": "meaning",
+    "text": "Your old tool did not suddenly stop working. The menu changed. That does not tell us which option suits you.",
+    "start": 1519,
+    "frames": 267,
+    "audioFrames": 249
+  },
+  {
+    "id": "google",
+    "text": "The second change is more personal. In September, Google announced a way to ask Gemini to remember where you put important items, using Find Hub.",
+    "start": 1786,
+    "frames": 319,
+    "audioFrames": 301
+  },
+  {
+    "id": "passport",
+    "text": "Imagine telling it your passport is in the bedroom drawer, then asking for that location later. This animation illustrates the idea; it is not a product recording.",
+    "start": 2105,
+    "frames": 337,
+    "audioFrames": 319
+  },
+  {
+    "id": "limits",
+    "text": "The announcement described a coming feature for supported Android sixteen and later devices and countries. Announced does not always mean available on your phone today.",
+    "start": 2442,
+    "frames": 333,
+    "audioFrames": 315
+  },
+  {
+    "id": "human",
+    "text": "Software is moving closer to everyday tasks. The useful question is not how futuristic it looks, but whether it actually helps.",
+    "start": 2775,
+    "frames": 300,
+    "audioFrames": 282
+  },
+  {
+    "id": "noise",
+    "text": "You do not need to chase every update. Treat the news like a filter, not an endless to do list. Keep three habits instead.",
+    "start": 3075,
+    "frames": 303,
+    "audioFrames": 285
+  },
+  {
+    "id": "date",
+    "text": "First, check the date and the original source. Look for the difference between a demonstration, an announcement, and something you can actually use.",
+    "start": 3378,
+    "frames": 303,
+    "audioFrames": 285
+  },
+  {
+    "id": "test",
+    "text": "Second, repeat one real task. Try the same email, research question, or planning job. Compare the result, the time spent, and how much checking it needs.",
+    "start": 3681,
+    "frames": 402,
+    "audioFrames": 384
+  },
+  {
+    "id": "weekly",
+    "text": "Third, review weekly, not constantly. Keep a short list of changes that matter to you. Ignore the rest until they solve a problem you actually have.",
+    "start": 4083,
+    "frames": 346,
+    "audioFrames": 328
+  },
+  {
+    "id": "future",
+    "text": "A year from now, some screens in this video may look old. But checking evidence, testing usefulness, and protecting your attention should still make sense.",
+    "start": 4429,
+    "frames": 333,
+    "audioFrames": 315
+  },
+  {
+    "id": "close",
+    "text": "Come back and tell us what aged badly. Subscribe for a weekly look at changes worth understanding. The tools change. Stay curious.",
+    "start": 4762,
+    "frames": 348,
+    "audioFrames": 330
+  }
+]
