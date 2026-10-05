@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Hook",
+    "title": "YOUR PHOTO.\nTHEIR OUTPUT?",
+    "kind": "copy",
+    "note": "Illustrative example"
+  },
+  {
+    "name": "Distinction",
+    "title": "THREE QUESTIONS.",
+    "kind": "three",
+    "note": "Training \u00b7 Output \u00b7 Permission"
+  },
+  {
+    "name": "Upload",
+    "title": "PUBLIC DOES NOT\nMEAN PERMISSION.",
+    "kind": "upload",
+    "note": "Check the platform\u2019s current policy"
+  },
+  {
+    "name": "Meta",
+    "title": "WHAT META\nACTUALLY SAYS.",
+    "kind": "public",
+    "note": "EU policy \u00b7 updated March 2026"
+  },
+  {
+    "name": "Regions",
+    "title": "CHECK YOUR\nOWN REGION.",
+    "kind": "settings",
+    "note": "Options vary by region and service"
+  },
+  {
+    "name": "Training",
+    "title": "LEARNING\nIS NOT A FOLDER.",
+    "kind": "training",
+    "note": "Conceptual animation"
+  },
+  {
+    "name": "Evidence",
+    "title": "MEMORISATION\nCAN HAPPEN.",
+    "kind": "copy",
+    "note": "Carlini et al. \u00b7 2023 research"
+  },
+  {
+    "name": "Similarity",
+    "title": "LOOKS SIMILAR?\nCHECK THE DETAILS.",
+    "kind": "compare",
+    "note": "Illustration \u2014 not an AI test result"
+  },
+  {
+    "name": "Law",
+    "title": "POSSIBLE \u2260\nPERMITTED.",
+    "kind": "law",
+    "note": "US analysis \u00b7 rules differ by jurisdiction"
+  },
+  {
+    "name": "Credentials",
+    "title": "A HISTORY RECORD.\nNOT A LOCK.",
+    "kind": "credentials",
+    "note": "C2PA \u00b7 Content Credentials"
+  },
+  {
+    "name": "Screenshot",
+    "title": "NO CREDENTIALS\nDOES NOT MEAN FAKE.",
+    "kind": "strip",
+    "note": "Metadata can be separated from a file"
+  },
+  {
+    "name": "Watermark",
+    "title": "VISIBLE MARKS\nARE NOT ARMOUR.",
+    "kind": "watermark",
+    "note": "Keep the original and your evidence"
+  },
+  {
+    "name": "Action",
+    "title": "BEFORE YOU\nUPLOAD.",
+    "kind": "settings",
+    "note": "Visibility \u00b7 Terms \u00b7 Evidence"
+  },
+  {
+    "name": "End",
+    "title": "WHAT WOULD\nYOU ALLOW?",
+    "kind": "choice",
+    "note": "Training? Remixing? Commercial reuse?"
+  }
+]

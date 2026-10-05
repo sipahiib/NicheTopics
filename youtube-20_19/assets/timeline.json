@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hook",
+    "start": 0,
+    "frames": 471
+  },
+  {
+    "id": "distinction",
+    "start": 471,
+    "frames": 435
+  },
+  {
+    "id": "upload",
+    "start": 906,
+    "frames": 341
+  },
+  {
+    "id": "meta",
+    "start": 1247,
+    "frames": 419
+  },
+  {
+    "id": "regions",
+    "start": 1666,
+    "frames": 435
+  },
+  {
+    "id": "training",
+    "start": 2101,
+    "frames": 422
+  },
+  {
+    "id": "evidence",
+    "start": 2523,
+    "frames": 468
+  },
+  {
+    "id": "similarity",
+    "start": 2991,
+    "frames": 439
+  },
+  {
+    "id": "law",
+    "start": 3430,
+    "frames": 521
+  },
+  {
+    "id": "credentials",
+    "start": 3951,
+    "frames": 445
+  },
+  {
+    "id": "screenshot",
+    "start": 4396,
+    "frames": 501
+  },
+  {
+    "id": "watermark",
+    "start": 4897,
+    "frames": 456
+  },
+  {
+    "id": "action",
+    "start": 5353,
+    "frames": 561
+  },
+  {
+    "id": "end",
+    "start": 5914,
+    "frames": 513
+  }
+]
