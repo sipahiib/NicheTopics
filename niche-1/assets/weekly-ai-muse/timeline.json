@@ -1,0 +1,128 @@
+[
+  {
+    "id": "hook",
+    "text": "An AI drafts the reply. Then it stops. You decide whether it gets sent.",
+    "start": 0,
+    "frames": 226,
+    "audioFrames": 208
+  },
+  {
+    "id": "stakes",
+    "text": "That pause matters. Meta's Muse can work across connected apps. But what are you actually handing over?",
+    "start": 226,
+    "frames": 265,
+    "audioFrames": 247
+  },
+  {
+    "id": "news",
+    "text": "On September twenty ninth, Meta announced Muse for Small Business. This week's story is about doing the work, not just answering questions.",
+    "start": 491,
+    "frames": 307,
+    "audioFrames": 289
+  },
+  {
+    "id": "busy",
+    "text": "Picture a small shop. Customer questions in one place. Sales in another. Tomorrow's content still waiting. The owner is the connection between everything.",
+    "start": 798,
+    "frames": 405,
+    "audioFrames": 387
+  },
+  {
+    "id": "chatbot",
+    "text": "A chatbot might suggest a reply. You copy it, switch apps, check the order, and finish the job yourself.",
+    "start": 1203,
+    "frames": 264,
+    "audioFrames": 246
+  },
+  {
+    "id": "agent",
+    "text": "An agent can take steps through connected tools. Meta lists integrations including Shopify, Canva, Slack, and business accounts on Instagram and Facebook.",
+    "start": 1467,
+    "frames": 351,
+    "audioFrames": 333
+  },
+  {
+    "id": "scenario",
+    "text": "Here is an illustrative workflow, not a recording of Muse. A customer asks about delivery. The task is to prepare a useful response.",
+    "start": 1818,
+    "frames": 332,
+    "audioFrames": 314
+  },
+  {
+    "id": "context",
+    "text": "The important part is context: which order, which delivery date, and what the shop has actually promised. A smooth sentence is not enough.",
+    "start": 2150,
+    "frames": 304,
+    "audioFrames": 286
+  },
+  {
+    "id": "draft",
+    "text": "Meta says Muse can flag emails needing a response and write first drafts. That could move the owner from starting every task to reviewing prepared work.",
+    "start": 2454,
+    "frames": 323,
+    "audioFrames": 305
+  },
+  {
+    "id": "approval",
+    "text": "But preparation is not permission. Meta says publishing, sending, and spending require your approval. The send button is still your decision.",
+    "start": 2777,
+    "frames": 339,
+    "audioFrames": 321
+  },
+  {
+    "id": "wrong",
+    "text": "Imagine the draft promises Friday, while the order says Monday. Approving that message quickly would turn a small error into a customer problem.",
+    "start": 3116,
+    "frames": 305,
+    "audioFrames": 287
+  },
+  {
+    "id": "review",
+    "text": "So the useful test is not whether the reply sounds human. It is whether the facts, recipient, and proposed action are right.",
+    "start": 3421,
+    "frames": 286,
+    "audioFrames": 268
+  },
+  {
+    "id": "access",
+    "text": "Meta says people choose connected apps and their access, and can disconnect a service. Start with the narrowest access that lets the task work.",
+    "start": 3707,
+    "frames": 304,
+    "audioFrames": 286
+  },
+  {
+    "id": "security",
+    "text": "Muse runs on a separate cloud computer. Meta describes a separate Sentinel checking outgoing actions. These are company safeguards, not proof that every task is safe.",
+    "start": 4011,
+    "frames": 386,
+    "audioFrames": 368
+  },
+  {
+    "id": "trial",
+    "text": "Try one low-stakes job first: prepare a draft, compare it with the original, and count the corrections. Include checking time when judging any time saved.",
+    "start": 4397,
+    "frames": 343,
+    "audioFrames": 325
+  },
+  {
+    "id": "availability",
+    "text": "The business announcement describes Muse as available in the United States and Canada. Check your own account's connectors and access before planning around it.",
+    "start": 4740,
+    "frames": 311,
+    "audioFrames": 293
+  },
+  {
+    "id": "payoff",
+    "text": "The opportunity is less switching between apps. The responsibility is more careful review. Would you trust it to draft, send, or spend? Tell us where your line is.",
+    "start": 5051,
+    "frames": 405,
+    "audioFrames": 387
+  },
+  {
+    "id": "end",
+    "text": "For a practical way to judge the next update, watch our video on what makes AI advice age badly. Subscribe for clear visual stories about what changed and why it matters.",
+    "start": 5456,
+    "frames": 600,
+    "audioFrames": 337
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {"id":"hook","text":"An AI drafts the reply. Then it stops. You decide whether it gets sent."},
+  {"id":"stakes","text":"That pause matters. Meta's Muse can work across connected apps. But what are you actually handing over?"},
+  {"id":"news","text":"On September twenty ninth, Meta announced Muse for Small Business. This week's story is about doing the work, not just answering questions."},
+  {"id":"busy","text":"Picture a small shop. Customer questions in one place. Sales in another. Tomorrow's content still waiting. The owner is the connection between everything."},
+  {"id":"chatbot","text":"A chatbot might suggest a reply. You copy it, switch apps, check the order, and finish the job yourself."},
+  {"id":"agent","text":"An agent can take steps through connected tools. Meta lists integrations including Shopify, Canva, Slack, and business accounts on Instagram and Facebook."},
+  {"id":"scenario","text":"Here is an illustrative workflow, not a recording of Muse. A customer asks about delivery. The task is to prepare a useful response."},
+  {"id":"context","text":"The important part is context: which order, which delivery date, and what the shop has actually promised. A smooth sentence is not enough."},
+  {"id":"draft","text":"Meta says Muse can flag emails needing a response and write first drafts. That could move the owner from starting every task to reviewing prepared work."},
+  {"id":"approval","text":"But preparation is not permission. Meta says publishing, sending, and spending require your approval. The send button is still your decision."},
+  {"id":"wrong","text":"Imagine the draft promises Friday, while the order says Monday. Approving that message quickly would turn a small error into a customer problem."},
+  {"id":"review","text":"So the useful test is not whether the reply sounds human. It is whether the facts, recipient, and proposed action are right."},
+  {"id":"access","text":"Meta says people choose connected apps and their access, and can disconnect a service. Start with the narrowest access that lets the task work."},
+  {"id":"security","text":"Muse runs on a separate cloud computer. Meta describes a separate Sentinel checking outgoing actions. These are company safeguards, not proof that every task is safe."},
+  {"id":"trial","text":"Try one low-stakes job first: prepare a draft, compare it with the original, and count the corrections. Include checking time when judging any time saved."},
+  {"id":"availability","text":"The business announcement describes Muse as available in the United States and Canada. Check your own account's connectors and access before planning around it."},
+  {"id":"payoff","text":"The opportunity is less switching between apps. The responsibility is more careful review. Would you trust it to draft, send, or spend? Tell us where your line is."},
+  {"id":"end","text":"For a practical way to judge the next update, watch our video on what makes AI advice age badly. Subscribe for clear visual stories about what changed and why it matters."}
+]

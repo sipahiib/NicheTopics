@@ -1,0 +1,183 @@
+1
+00:00:00,250 --> 00:00:02,712
+An AI drafts the reply.
+
+2
+00:00:02,712 --> 00:00:04,561
+Then it stops.
+
+3
+00:00:04,561 --> 00:00:07,087
+You decide whether it gets sent.
+
+4
+00:00:07,783 --> 00:00:09,824
+That pause matters.
+
+5
+00:00:09,824 --> 00:00:13,255
+Meta's Muse can work across connected apps.
+
+6
+00:00:13,255 --> 00:00:15,959
+But what are you actually handing over?
+
+7
+00:00:16,617 --> 00:00:21,311
+On September twenty ninth, Meta announced Muse for Small Business.
+
+8
+00:00:21,311 --> 00:00:26,170
+This week's story is about doing the work, not just answering questions.
+
+9
+00:00:26,850 --> 00:00:29,082
+Picture a small shop.
+
+10
+00:00:29,082 --> 00:00:31,876
+Customer questions in one place.
+
+11
+00:00:31,876 --> 00:00:33,789
+Sales in another.
+
+12
+00:00:33,789 --> 00:00:36,557
+Tomorrow's content still waiting.
+
+13
+00:00:36,557 --> 00:00:39,669
+The owner is the connection between everything.
+
+14
+00:00:40,350 --> 00:00:43,143
+A chatbot might suggest a reply.
+
+15
+00:00:43,143 --> 00:00:48,475
+You copy it, switch apps, check the order, and finish the job yourself.
+
+16
+00:00:49,150 --> 00:00:52,683
+An agent can take steps through connected tools.
+
+17
+00:00:52,683 --> 00:01:00,183
+Meta lists integrations including Shopify, Canva, Slack, and business accounts on Instagram and Facebook.
+
+18
+00:01:00,850 --> 00:01:05,199
+Here is an illustrative workflow, not a recording of Muse.
+
+19
+00:01:05,199 --> 00:01:07,853
+A customer asks about delivery.
+
+20
+00:01:07,853 --> 00:01:11,220
+The task is to prepare a useful response.
+
+21
+00:01:11,917 --> 00:01:18,651
+The important part is context: which order, which delivery date, and what the shop has actually promised.
+
+22
+00:01:18,651 --> 00:01:21,355
+A smooth sentence is not enough.
+
+23
+00:01:22,050 --> 00:01:27,394
+Meta says Muse can flag emails needing a response and write first drafts.
+
+24
+00:01:27,394 --> 00:01:32,152
+That could move the owner from starting every task to reviewing prepared work.
+
+25
+00:01:32,817 --> 00:01:35,572
+But preparation is not permission.
+
+26
+00:01:35,572 --> 00:01:40,495
+Meta says publishing, sending, and spending require your approval.
+
+27
+00:01:40,495 --> 00:01:43,442
+The send button is still your decision.
+
+28
+00:01:44,117 --> 00:01:48,721
+Imagine the draft promises Friday, while the order says Monday.
+
+29
+00:01:48,721 --> 00:01:53,619
+Approving that message quickly would turn a small error into a customer problem.
+
+30
+00:01:54,283 --> 00:01:58,352
+So the useful test is not whether the reply sounds human.
+
+31
+00:01:58,352 --> 00:02:03,123
+It is whether the facts, recipient, and proposed action are right.
+
+32
+00:02:03,817 --> 00:02:09,467
+Meta says people choose connected apps and their access, and can disconnect a service.
+
+33
+00:02:09,467 --> 00:02:13,255
+Start with the narrowest access that lets the task work.
+
+34
+00:02:13,950 --> 00:02:17,203
+Muse runs on a separate cloud computer.
+
+35
+00:02:17,203 --> 00:02:21,514
+Meta describes a separate Sentinel checking outgoing actions.
+
+36
+00:02:21,514 --> 00:02:26,157
+These are company safeguards, not proof that every task is safe.
+
+37
+00:02:26,817 --> 00:02:33,857
+Try one low-stakes job first: prepare a draft, compare it with the original, and count the corrections.
+
+38
+00:02:33,857 --> 00:02:37,582
+Include checking time when judging any time saved.
+
+39
+00:02:38,250 --> 00:02:43,531
+The business announcement describes Muse as available in the United States and Canada.
+
+40
+00:02:43,531 --> 00:02:47,931
+Check your own account's connectors and access before planning around it.
+
+41
+00:02:48,617 --> 00:02:52,086
+The opportunity is less switching between apps.
+
+42
+00:02:52,086 --> 00:02:55,428
+The responsibility is more careful review.
+
+43
+00:02:55,428 --> 00:02:58,999
+Would you trust it to draft, send, or spend?
+
+44
+00:02:58,999 --> 00:03:01,436
+Tell us where your line is.
+
+45
+00:03:02,117 --> 00:03:08,545
+For a practical way to judge the next update, watch our video on what makes AI advice age badly.
+
+46
+00:03:08,545 --> 00:03:13,277
+Subscribe for clear visual stories about what changed and why it matters.
